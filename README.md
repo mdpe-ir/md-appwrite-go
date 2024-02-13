@@ -17,7 +17,7 @@
 To install using `go get`:
 
 ```bash
-go get github.com/appwrite/sdk-for-go
+go get github.com/mdpe-ir/md-appwrite-go
 ```
 
 ## Testing the SDK
